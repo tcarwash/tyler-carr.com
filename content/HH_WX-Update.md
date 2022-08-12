@@ -28,7 +28,7 @@ A script named wxstream.sh is placed in my `/usr/local/share/` directory with co
 
 ```
 #!bash
-/#!/bin/bash
+#!/bin/bash
 rtl_fm -f 162.550m -M fm - 2> /dev/null | lame -r -s 24 -m m -b 24  --cbr - - | ezstream -c /home/tyler/kig98.xml
 ```
 
