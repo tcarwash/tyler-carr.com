@@ -1,5 +1,5 @@
-title: This site -- Continuous Delivery
-date: 2021-08-10
+title: swpclib and homeassistant-noaa_space_weather
+date: 2022-10-13
 category: Meta
 author: Tyler Carr
 keywords: homelab, meta, development, linux, amateur radio, 
