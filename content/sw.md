@@ -9,7 +9,7 @@ status: draft
 
 # Introducing swpclib and home-assistant_noaa-space-weather
 
-This is a half baked unveiling of a couple projects I've been working on lately. 
+This is an informal unveiling of a couple projects I've been working on lately. 
 I've been wanting to be able to incorporate space weather data into my homeassistant automations for a while. Mostly out of an interest in understanding things like the Solar Flux Index, A; K indices, and how they relate to the Sunspot number and ultimately -- real world radio propagation. 
 
 In seeking out this data, I realized that there wasn't a python library for retriving information from [NOAA's Space Weather Prediction Center](https://www.swpc.noaa.gov/) (the primary source for such data). A first step to homeassistant integration became creating such a library. 
