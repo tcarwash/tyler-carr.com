@@ -1,9 +1,9 @@
 title: swpclib and homeassistant-noaa_space_weather
 date: 2022-10-13
-category: Meta
+category: Software
 author: Tyler Carr
-keywords: homelab, meta, development, linux, amateur radio, 
-tags: Meta, Development, Amateur Radio
+keywords: homelab,development, linux, amateur radio 
+tags: Development, Amateur Radio
 summary: Space weather + Homeassistant 
 status: draft
 
