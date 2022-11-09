@@ -3,7 +3,7 @@ date: 2021-6-21
 category: About
 save_as: index.html
 
-I'm currently employed as a Hardware Maintenance Technician by Evergreen Public Schools in Vancouver, Washington. In my spare time I'm a computer hobbiest/home-labber, amateur radio operator (callisgn: AG7SU) and father of two. 
+I'm currently employed as a CAD/IT Technician at CRESA 911 in Vancouver, Washington. Previously I was a Hardware Maintenance Technician at Evergreen Public Schools. In my spare time I'm a computer hobbiest/home-labber, amateur radio operator (callisgn: AG7SU) and father of two. 
 
 ### About this site
 This site is intended as both a personal blog and a 'Portfolio' of my projects, past and ongoing. 
