@@ -7,14 +7,14 @@ tags: Homelab, Docker, Cluster, Chromebook Cluster
 summary: A description of the Chromebook 11 cluster I built using roadkill chromebooks. 
 status: published
 
-![My Chromebook Cluster]({static}/images/ccluster/ccluster-1.jpg)
+![My Chromebook Cluster](https://content.ag7su.com/file/ag7su-web/ccluster-1.jpg)
 
 Today I'm finally going to get around to describing the Four node chromebook cluster I built last year. I had always been interested in clusters, especially clusters built out of single board computers. Due to the price of amassing several machines to cluster, however, it never seemed all that viable of a thing to try. 
 
 ## The Minimum Viable Chromebook
 Last year some time, I came across several Dell Chromebook 11s that were being tossed. These devices had broken screens/keyboards/etc, and were no longer supported by ChromeOS. Because of this they were not worth fixing to be sold, and had no usefulness left for their intended purpose. 
 
-![Inside view of Dell Chromebook 11]({static}/images/ccluster/ccluster-4.jpg)
+![Inside view of Dell Chromebook 11](https://content.ag7su.com/file/ag7su-web/ccluster-4.jpg)
 
 These Chromebooks (Dell CB1C13) have the following specs:
 
@@ -24,7 +24,7 @@ These Chromebooks (Dell CB1C13) have the following specs:
 
 
 My idea to build a cluster out of these started with an attempt to find what I called the 'Minimum Viable Chromebook.' I started stripping parts off of a Chromebook motherboard until it wouldn't boot anymore. With this model of Chromebook it turned out that, unlike some other models, the battery; keyboard; daughter-board; screen; and touchpad (basically everything except the motherboard) were all not necessary for the device to boot. These devices are actively cooled by a fan/heat pipe, and all of their connections once the daughter-board is removed are on one side, making them even more enticing for service in a cluster. 
-![Bare Chromebook motherboard]({static}/images/ccluster/ccluster-3.jpg)
+![Bare Chromebook motherboard](https://content.ag7su.com/file/ag7su-web/ccluster-3.jpg)
 
 With all extraneous parts removed from my first subject (read: victim) I started working on installing linux on the device. There are really great instructions avavailable for this, making it a pretty simple process. The full set of instructions can be found on the [Arch Wiki](https://wiki.archlinux.org/title/Dell_Chromebook_11) but it basically goes as follows:
 
@@ -42,7 +42,7 @@ Going with the theme set by Minnie soon I had Mickey, Goofy and Pluto.
 
 The boards were all stripped, and their cooling fans mounted directly to the motherboard reusing screws and standoffs from the case it came out of. The boards were mounted to eachother using brass standoffs and screws.
 
-![Chromebook cluster cooling/mounting solution]({static}/images/ccluster/ccluster-2.jpg)
+![Chromebook cluster cooling/mounting solution](https://content.ag7su.com/file/ag7su-web/ccluster-2.jpg)
 ### Lets talk about the layout
 Now that we're talking about four linux machines, we should start talking about network layout. 
 

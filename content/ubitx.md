@@ -11,11 +11,11 @@ In an effort to consolidate some posts from elswhere, here is one I wrote in 202
 
 [uBitx by AG7SU on Digital Oddballs Radio Club](https://oddballs.digital/node/5)
 
-![uBitx by AG7SU]({static}/images/ubitx.jpg)
+![uBitx by AG7SU](https://content.ag7su.com/file/ag7su-web/ubitx.jpg)
 
 This was my first HF radio, and I made lots of great contacts on it before I upgraded to an [Icom IC7300.](https://www.icomamerica.com/en/products/amateur/hf/7300/default.aspx)
 
-![uBitx back panel]({static}/images/back-panel.jpg)
+![uBitx back panel](https://content.ag7su.com/file/ag7su-web/back-panel.jpg)
 
 Some quick details on modifications I made to this radio:
 
@@ -32,4 +32,4 @@ Some quick details on modifications I made to this radio:
 
 [uBitx by AG7SU on Digital Oddballs Radio Club](https://oddballs.digital/node/5)
 
-![uBitx if-tap demonstration]({static}/images/if-tap.jpg)
+![uBitx if-tap demonstration](https://content.ag7su.com/file/ag7su-web/if-tap.jpg)

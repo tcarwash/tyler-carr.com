@@ -10,7 +10,7 @@ summary: A curses based TUI logging program for amateur radio use.
 ## What is PylogCQ, and why?
 [PylogCQ](https://github.com/tcarwash/pylogcq) is a curses based TUI logging program for Amateur Radio use. 
 
-![PylogCQ]({static}/images/pcq1.png)
+![PylogCQ](https://content.ag7su.com/file/ag7su-web/pcq1.png)
 
 I started writing PylogCQ because I wanted a dead simple logging program that I could use from the command line, and remotely. PylogCQ uses the `npyscreen` library to build it's UI and `Hamlib` for CAT control. 
 

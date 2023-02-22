@@ -14,7 +14,7 @@ We're a group of hams who are into computers, programming and all kinds of other
 
 [DORCBot](https://github.com/tcarwash/DORCbot) sits in our Discord server, and accepts several different commands. DORCBot will tell you what the solar forcast is using the `!solar` command. DORCBot will also give you a list of the 5 most recent DORCs who were spotted/reported on the air by other hams, this uses data from one of my other projects. 
 
-![DORCBot Help Output]({static}/images/db1.png)
+![DORCBot Help Output](https://content.ag7su.com/file/ag7su-web/db1.png)
 
 DORCBot is meant to be a way for members of the club to bring their development projects into the chatroom.
 
@@ -23,7 +23,7 @@ One of the neatest things that DORCBot will do uses an API and data model develo
 
 DORCBot will grab data from Andrew's API to return the Maximum Observed Frequency between two stations. If you have your Discord display name in `name_callsign` format, any time you give a function that normally takes two callsigns as input only one callsign, DORCBot will assume you want to use your own callsign as the other argument, and pull it from your display name. This means that if I set my display name to `Tyler AG7SU` all I have to do to get a prediction of propagation to any other station/grid is issue the command `!mof CALLSIGN` or `!mof GRID`
 
-![DORCBot !mof Output]({static}/images/db2.png)
+![DORCBot !mof Output](https://content.ag7su.com/file/ag7su-web/db2.png)
 
 ## Lessons, New Experiences
 Before working on DORCBot I had had no experience with Github Actions, CI/CD or working on development projects with other people. Each of these have been great learning experiences for me. 
